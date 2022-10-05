@@ -1,0 +1,33 @@
+.titulo{
+    color: red;
+    font-size: 85px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo2{
+    color:brown;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo3{
+    color:rgb(42, 112, 165);
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo4{
+    color:brown;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.enlace{
+    background-color: rgb(22, 211, 236);
+    color: black;
+    font-size: medium;
+}
+
+.fondo{
+    background-color: blanchedalmond;
+}
